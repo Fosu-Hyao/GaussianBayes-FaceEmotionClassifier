@@ -2,7 +2,7 @@
 ## 项目简介
 
 用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。根据情绪选择相应的emoji匹配  
-（PS:本项目仅供学习使用）
+(喜欢本项目请**右上角star**一下⭐⭐⭐)
 
 
 ![happy](https://github.com/Fosu-Hyao/FaceEmotionClassifier-/blob/be0b4105331aa4e2145c8ef1d0dee0993f42261b/image/happy.png)
@@ -49,3 +49,6 @@ https://blog.csdn.net/sinat_28442665/article/details/86650152
 + https://blog.csdn.net/GUET_DM_LQ/article/details/103765163
 + https://www.jianshu.com/p/399e5a3c7cc5
 + https://www.jianshu.com/p/1ea2949c0056
+
+
+![fosu](https://github.com/Fosu-Hyao/FaceEmotionClassifier/blob/076b52ffc0013d59b75e1f2d8a29f84f2a7b2933/image/fosu.jpg)
