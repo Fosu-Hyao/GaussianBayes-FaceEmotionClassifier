@@ -3,6 +3,8 @@
 
 用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。根据情绪选择相应的emoji匹配
 
+
+![happy](https://github.com/Fosu-Hyao/FaceEmotionClassifier-/blob/be0b4105331aa4e2145c8ef1d0dee0993f42261b/image/happy.png)
 ## 项目环境
 
 >**数据集：** Fer2013 ( kaggle挑战赛 ) ，Emoji表情集  
@@ -19,15 +21,15 @@ https://blog.csdn.net/sinat_28442665/article/details/86650152
 
 ## 总流程：
 
-+ 对训练集预处理（fer2013_process)
++ 对训练集预处理（**fer2013_process**)
 
 
 
-+ 然后用处理好的fer2013的数据集训练深度卷积神经网络构建的模型识别人脸表情(train)
++ 然后用处理好的fer2013的数据集训练深度卷积神经网络构建的模型识别人脸表情(**train**)
 
 
 
-+ 使用训练好的模型识别人脸的表情情绪(predict)
++ 使用训练好的模型识别人脸的表情情绪(**predict**)
 
 
 
