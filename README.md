@@ -1,4 +1,4 @@
-# 基于卷积神经网络的高斯朴素贝叶斯分类人脸表情识别
+# 基于卷积神经网络的高斯朴素贝叶斯分类人脸表情识别（FaceEmotionClassifier）
 ## 项目简介
 
 用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。根据情绪选择相应的emoji匹配
@@ -10,11 +10,14 @@
 >**数据集：** Fer2013 ( kaggle挑战赛 ) ，Emoji表情集  
 **神经网络框架：** Keras,Tensorflow-gpu  
 **分类器：** 基于Opencv-Normal Bayes Classifier(正态贝叶斯分类)训练的贝叶斯分类器  
-**python环境：** python==3.6.0 tensorflow-gpu==**1.8.0** keras-gpu==2.1.6 opencv==3.3.1
+**配置环境：** python==3.6.0 tensorflow-gpu==**1.8.0** keras-gpu==2.1.6 opencv==3.3.1  
+**其他环境详见：environment.yaml**
 
-详见**environment.yaml**
+**Fer2013数据集：**
 
-环境安装：
+链接：https://pan.baidu.com/s/1Ac5XBue0ahLOkIXwa7W77g 提取码：qrue
+
+**环境安装教程：**
 
 https://blog.csdn.net/sinat_28442665/article/details/86650152
 
@@ -35,6 +38,7 @@ https://blog.csdn.net/sinat_28442665/article/details/86650152
 
 + 根据识别结果，匹配合适的emoji遮住人脸
 
+![总流程](https://github.com/Fosu-Hyao/FaceEmotionClassifier-/blob/817baf0e094ae54e59e9875d2d1d1429632fbee9/image/%E6%80%BB%E6%B5%81%E7%A8%8B.png)
 
 ## 参考：
 + https://blog.csdn.net/qq_42995327/article/details/114548137
