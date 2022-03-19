@@ -1,8 +1,8 @@
 # 基于卷积神经网络的高斯朴素贝叶斯分类人脸表情识别（FaceEmotionClassifier）
 ## 项目简介
 
-用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。根据情绪选择相应的emoji匹配
-（以上代码仅供学习使用）
+用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。根据情绪选择相应的emoji匹配  
+（PS:本项目仅供学习使用）
 
 
 ![happy](https://github.com/Fosu-Hyao/FaceEmotionClassifier-/blob/be0b4105331aa4e2145c8ef1d0dee0993f42261b/image/happy.png)
