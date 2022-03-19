@@ -5,7 +5,6 @@
 
 ## 项目环境
 
-
 >**数据集：** Fer2013 ( kaggle挑战赛 ) ，Emoji表情集  
 **神经网络框架：** Keras,Tensorflow-gpu  
 **分类器：** 基于Opencv-Normal Bayes Classifier(正态贝叶斯分类)训练的贝叶斯分类器  
