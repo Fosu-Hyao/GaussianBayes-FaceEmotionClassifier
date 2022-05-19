@@ -1,7 +1,7 @@
-# 基于卷积神经网络的高斯朴素贝叶斯分类人脸表情识别（GaussianBayes-FaceEmotionClassifier）
+# 基于卷积神经网络的人脸表情识别（GaussianBayes-FaceEmotionClassifier）
 ## 项目简介
 
-用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**高斯朴素贝叶斯分类器**识别人类的情绪。  
+用搭载**Keras**的**tensorflow**框架通过**卷积神经网络**训练模型，使用**贝叶斯分类器**识别人类的情绪。  
 根据情绪选择相应的emoji匹配  （更多详情请打开*FaceEmotionClassifier.ipynb*文件）
 > 喜欢本项目请**右上角star**一下⭐⭐⭐)
 
